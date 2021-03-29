@@ -52,7 +52,7 @@ je suis également sourde
 
 14
 00:00:48,532 --> 00:00:53,532
-j'ai fait des études dans une écolé d'ingénieurs
+j'ai fait des études dans une école d'ingénieurs
 
 15
 00:00:53,532 --> 00:00:59,566
